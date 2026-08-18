@@ -1,0 +1,6 @@
+.pio/
+.vscode/
+*.elf
+*.map
+*.hex
+*.uf2
